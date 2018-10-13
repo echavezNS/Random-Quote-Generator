@@ -7,6 +7,6 @@ A site to seek for Random Quotes. 🍃
 
 #### Warning :warning:
 The quotes may motivate you!
-## Live demo [here](https://echavezNS.github.io/Random-Quote-Generator/)!
+## Live demo [here](https://echavezNS.github.io/random-quotes/)!
 
 ##### Made with :coffee: :heart: :headphones: by @[jorgechavz](https://github.com/jorgechavz)
